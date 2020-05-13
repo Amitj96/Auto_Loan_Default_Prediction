@@ -1,0 +1,2 @@
+# Auto_Loan_Default_Prediction
+In this project, I used the L&T Vehicle Loan Default Prediction data set from Kaggle to predict if a customer will default his or her auto loan payment. It was an interesting project to work on! Some of the challenges I faced were that the data was imbalanced and contained terms and variables which required some research. But I easily overcame those obstacles. I tried various classification and ensemble ML methods to find the best model.
